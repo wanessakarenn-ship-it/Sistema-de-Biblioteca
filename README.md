@@ -24,7 +24,7 @@ listarDisponiveis() → mostra apenas não emprestados
 Uso de null e optional: dataEmprestimo e dataDevolucao começam como null e só recebem valor quando houver movimentação.
 
 ​Resumo dos Conceitos Principais
-​Seu texto explica cada conceito de forma concisa e com exemplos práticos. Aqui está um resumo dos pontos mais importantes:
+​Explica cada conceito de forma concisa e com exemplos práticos. Resumo dos pontos mais importantes:
 ​undefined: Representa a ausência de um valor, seja em uma variável declarada, mas não inicializada, ou em uma propriedade de objeto que não existe.
 
 ​null: Usado para resetar um valor ou indicar explicitamente que não há resultado, como na busca por um usuário que não foi encontrado. O TypeScript, com a flag strictNullChecks, exige que você declare explicitamente se uma variável pode ser null (ex: string | null).
