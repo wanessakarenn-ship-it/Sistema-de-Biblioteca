@@ -1,4 +1,4 @@
-# Sistema-de-Biblioteca
+# Sistema-de-Biblioteca em TypeScript
 Descrição: Gerenciar livros e empréstimos de forma simples.
 
 pção 2 – Sistema de Biblioteca
